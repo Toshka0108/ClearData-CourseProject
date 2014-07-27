@@ -1,6 +1,13 @@
 ClearData-CourseProject
 =======================
 
+Required data:
+ 1. "x_test.txt", "x_train.txt"
+ 2. "y_test.txt", "y_train.txt"
+ 3. "subject_test.txt", "subject_train.txt"
+ 4. "activity_labels.txt"
+ 5. "features.txt"
+
 The code in run_analysis.R works in the following way:
  1. Read necessary data files into memory.
  2. Add "Subject" and "Activity" columns ("subject_t*" and "y_t*" files) to "test" and "train" data ("x_t*" files).
