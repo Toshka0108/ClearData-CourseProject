@@ -31,4 +31,5 @@ THe variables are the following:
 * fBodyGyroMag
 * fBodyGyroJerkMag
 
--mean() and std() corresponds to the mean and standart deviation of the corresponding variable.
+-mean() and -std() corresponds to the mean and standart deviation of the corresponding variable.
+-x, -y and -z corresponds to the direction.
